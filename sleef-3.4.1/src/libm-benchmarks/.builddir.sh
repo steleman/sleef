@@ -1,0 +1,2 @@
+export BUILDDIR="`pwd`/../../../build"
+

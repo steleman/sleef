@@ -1,0 +1,2 @@
+setenv BUILDDIR "`pwd`/../../../build"
+
